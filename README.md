@@ -4,7 +4,7 @@
 
 All PS scripts I've written for common IT tasks.
 
-## Contents
+## Scripts
 
 ### 1. [compareFileToHashValue](https://github.com/RiseAgainst9192/Powershell-Scripts/blob/master/compareFileToHashValue.ps1)
 
