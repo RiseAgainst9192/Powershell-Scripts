@@ -1,10 +1,10 @@
 # Powershell-Scripts
 
-## What is this?
+## Description
 
 All PS scripts I've written for common IT tasks.
 
-## Contents
+## Scripts
 
 ### 1. [compareFileToHashValue](https://github.com/RiseAgainst9192/Powershell-Scripts/blob/master/compareFileToHashValue.ps1)
 
@@ -12,4 +12,3 @@ All PS scripts I've written for common IT tasks.
 - Params (in order):
   1. $fileName
   2. $fileHash
-
